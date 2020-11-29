@@ -1,0 +1,5 @@
+picamera
+boto3
+pydantic
+python-dotenv
+black
